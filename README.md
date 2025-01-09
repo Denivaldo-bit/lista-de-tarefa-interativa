@@ -1,4 +1,4 @@
-Task Manager
+Task Manager.
 Este é um projeto simples de gerenciador de tarefas desenvolvido com HTML, CSS e JavaScript. O objetivo do projeto é criar uma aplicação funcional que permita aos usuários adicionar, marcar como concluído e excluir tarefas de maneira organizada.
 
 Funcionalidades
